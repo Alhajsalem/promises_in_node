@@ -1,0 +1,46 @@
+{
+  "env": {
+    "test":{
+      "oauth":{
+        "url": "https://generic-api-test.v0.maxdome.cloud",
+        "client_id": "",
+        "client_secret":""
+      },
+      "pas":{
+        "url": "https://generic-api-test.v0.maxdome.cloud"
+
+      },
+      "ppms_api":{
+        "url": ""
+      },
+      "auth": {
+        "url":"https://generic-api-test.v0.maxdome.cloud"
+      }
+    },
+    "stage":{
+      "oauth":{
+        "url": "https://generic-api-stage.v0.maxdome.cloud",
+        "client_id": "",
+        "client_secret":""
+      },
+      "pas":{
+        "url": "https://generic-api-stage.v0.maxdome.cloud"
+
+      },
+      "ppms_api":{
+        "url": ""
+      },
+      "auth": {
+        "url":"https://generic-api-stage.v0.maxdome.cloud"
+      }
+
+    },
+    "prod": {
+      "oauth":{
+        "url ":"https://account.maxdome.de",
+        "client_id": "",
+        "client_secret": " "
+      }
+    }
+  }
+}
