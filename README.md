@@ -1,1 +1,1 @@
-promises_in_node: this project is to show how to uses promisses in nodejs instead of the callbacks. as the callbacks getting very complexed if they are nested. The promisses giving a quick solution for that problem, as they are easy to use.
+promises_in_node: this project is to show how to use promisses in nodejs instead of the callbacks. As the callbacks getting very complicated if they are nested. The promisses giving a quick solution for that problem, as they are easy to use.
