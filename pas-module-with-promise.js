@@ -19,11 +19,11 @@ var get_session_id = (env, token) => {
             body: JSON.stringify({
                 'abusePreventionAccepted': true,
 
-                'person': {'firstName': 'Martin', 'lastName': 'Martin', 'salutation': 'MR'},
+                'person': {'firstName': '', 'lastName': '', 'salutation': 'MR'},
 
-                'email': 'fa_10011@qaya.maxdome.de',
+                'email': '',
 
-                'password ': 'U3NRG24_33i*',
+                'password ': '',
 
                 'successUrl': '',
 

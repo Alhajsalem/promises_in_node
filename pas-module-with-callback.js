@@ -20,9 +20,9 @@ var get_session_id = (env, token, callback) => {
 
             'person': {'firstName': 'Hans', 'lastName': 'Peter', 'salutation': 'MR'},
 
-            'email': 'fa_10011@qaya.maxdome.de',
+            'email': '',
 
-            'password ': 'U3NRG24_33i*',
+            'password ': '',
 
             'successUrl': '',
 
